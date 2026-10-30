@@ -1,0 +1,125 @@
+country: PL
+title: The Automatic
+all_songs_link: true
+
+'Not Accepted Anywhere':
+    "That's What She Said":
+        id: y-KF7Ekp0dM
+    'Raoul':
+        id: GDP9L9dqTWU
+    'You Shout You Shout You Shout You Shout':
+        id: w1oOx0lHB2I
+    'Recover':
+        id: VwOUnMbrjds
+    'Monster':
+        id: dtGrb3eHSaw
+    'Lost at Home':
+        id: w_720QxgKnM
+    'Keep Your Eyes Peeled':
+        id: M05FBvFmEWk
+    'Seriously... I Hate You Guys':
+        id: BYqm7kPpDv8
+    'On the Campaign Trail':
+        id: G-6mUYxuS68
+    'Team Drama':
+        id: OWKybcQfaWc
+    'By My Side':
+        id: 8eMkwhvTfXw
+    'Rats':
+        id: zOru1SBaJX0
+    'Jack Daniels':
+        id: G1rTeTbelcQ
+        source: B-side of "Recover"
+    'Song 6':
+        id: EiKVEC07d-k
+        source: B-side of "Recover"
+    'Trophy Wives':
+        id: 3kI8ZkcoKbw
+        source: B-side of "Raoul"
+    'Night Drive':
+        id: cSaSnba4gRM
+        source: B-side of "Monster"
+    'High Tide on Caroline Street':
+        id: tF11nFNRl1Y
+        source: B-side of "Monster"
+    'Time = Money':
+        id: SI7O-6YRngs
+        source: B-side of "Recover" re-release
+    'Easy Target':
+        id: hQIRO9GfJWg
+        source: B-side of "Raoul" re-release
+    'Gold Digger':
+        id: h1EFeWaoWAo
+        cover: Kanye West
+        source: '"Radio 1''s Live Lounge" compilation album'
+    'The Trapeze Artist':
+        id: -4SN54gr0zI
+        source: '"Print Is Dead Vol. 1" album by Yourcodenameis:milo'
+    'Epic':
+        id: f_jn0HsNTRs
+        cover: Faith No More
+        source: '"Higher Voltage!: Another Brief History of Rock" compilation album'
+
+'This Is a Fix':
+    'Responsible Citizen':
+        id: xB4jhiI6QMs
+    'Steve McQueen':
+        id: sIola5UK1uI
+    'Accessories':
+        id: RRtPyLjm3yk
+    'Magazines':
+        id: nKQfXG1i_OI
+    'This Ship':
+        id: 9O1Bl_DshIg
+    'In the Mountains':
+        id: X1Oo7RADkc4
+    'This Is a Fix':
+        id: sKinwX64C2w
+    'Bad Guy':
+        id: Bm031hEvOyw
+    'Sleepwalking':
+        id: NSz91rAt22U
+    'Secret Police':
+        id: VuG1ZplULy8
+    'Make the Mistakes':
+        id: 5UjsX-y34K8
+    'Light Entertainment':
+        id: ktlgnmsgS4M
+    'In This World':
+        id: P3ziCtOO29I
+        source: B-side of "Steve McQueen"
+    'Big Ideas':
+        id: qx6SNDQ6ros
+        source: B-side of "Steve McQueen"
+    'Young Entrepreneurs':
+        id: yDEoUmMrPnk
+        source: B-side of "Steve McQueen"
+    'Love in This Club':
+        id: r1t-Ht3YV-4
+        cover: Usher
+        live: Radio 1 Live Lounge 2008
+        source: '"Radio 1''s Live Lounge – Volume 3" compilation album'
+
+'Tear the Signs Down':
+    'Insides':
+        id: QfnSTLzQH0E
+    'Interstate':
+        id: 49xEkYpvNeM
+    'Cannot Be Saved':
+        id: qk8QKn1CBRA
+    'List':
+        id: oh8iMLxJ32o
+    'Run and Hide':
+        id: wVSDiaRUt7Y
+    'Sweat Heat Noise':
+        id: D9jNwTRuVz0
+    'High Time':
+        id: GJ0FdHbppts
+    'Race to the Heart of the Sun':
+        id: o_-4Kyu29T4
+    'Can I Take You Home':
+        id: 9cPNBVz3v5E
+    'Something Else':
+        id: FCV5Jf9182A
+    'Tear It Down':
+        id: WoFrI_KeJBI
